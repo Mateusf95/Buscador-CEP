@@ -5,7 +5,7 @@ function Footer() {
                 <p>&copy; Developers</p>
                 <spam>Mateus Henrique de Moura Ferreira</spam>
                 <br/>
-                <spam>lucas da Silva Feitosa</spam>
+                <spam>Lucas da Silva Feitosa</spam>
             </div>
         </footer>
     )
